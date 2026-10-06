@@ -48,7 +48,7 @@ class Aluno:
         self.endereço = endereço
 
     def mostrar_informações(self):
-        print(f"Aluno: {self.nome}, Idade: {self.idade}, Matrícula: {self.matrícula}")
+        print(f"Aluno: {self.nome}. Idade: {self.idade}. Matrícula: {self.matrícula}.")
         if  hasattr(self, 'endereço'):
             print(f"Endereço: {self.endereço.rua}, {self.endereço.numero}, {self.endereço.cidade} - {self.endereço.estado}")
 
