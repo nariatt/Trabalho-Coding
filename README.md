@@ -96,9 +96,10 @@ No terminal, execute:
 
 ```bash
 python ATT-1/Trabalho-1.py
-
+```
 
 Se estiver usando Windows e o comando `python` não funcionar, normalmente:
 
 ```bash
 py ATT-1/Trabalho-1.py
+```
