@@ -56,19 +56,19 @@
 
 ## 2. Relacionamentos
 
-### Escola --◆ SalaDeAula
+### Escola ——◆ SalaDeAula
 
 Tipo: Composição (◆)
 
 Uma escola possui várias salas de aula. As salas dependem da escola para existir no sistema. Se a escola for removida, suas salas também deixam de existir.
 
-### Escola —-- Professor
+### Escola ——— Professor
 
 Tipo: Associação
 
 Um professor pode lecionar em várias escolas e uma escola pode possuir vários professores. Ambos podem existir independentemente.
 
-### Aluno —-◇ Endereço
+### Aluno ——◇ Endereço
 
 Tipo: Agregação (◇)
 
