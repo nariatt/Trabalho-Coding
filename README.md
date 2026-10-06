@@ -54,7 +54,7 @@
 **Métodos:**
 - mostrar_informações()
 
-## 3. Relacionamentos
+## 2. Relacionamentos
 
 ### Escola --◆ SalaDeAula
 
