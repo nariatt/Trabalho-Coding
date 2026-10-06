@@ -1,5 +1,4 @@
 # Sistema de gerenciamento escolar
-# Atividade de Programação Orientada a Objetos
 
 class Escola:
     def __init__(self, nome):
