@@ -74,3 +74,7 @@ Tipo: Agregação (◇)
 
 O aluno possui um endereço, mas o endereço pode continuar
 existindo mesmo que o aluno seja removido.
+
+## 3. Diagrama UML
+
+![Diagrama UML](docs/Diagrama.png)
